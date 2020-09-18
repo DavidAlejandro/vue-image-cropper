@@ -1,4 +1,5 @@
 # vue-image-cropper
+A simple image cropper built from scratch using HTML5 canvas
 
 ## Project setup
 ```
